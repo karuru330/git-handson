@@ -28,6 +28,7 @@ This repo is to practice git commands
 🧹 Undo & Cleanup
 - git reset – Unstage changes
 - git reset --hard <commit> – Reset to a specific commit
+- git push origin <brach_name> --force -- to push the changes after hard reset
 - git revert <commit> – Create a new commit that undoes changes
 - git stash – Temporarily save changes
 - git stash pop – Reapply stashed changes
